@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+	},
+	"exclude": [
+		"node_modules",
+		"CHANGELOG.txt",
+		"packages",
+		"vendor"
+	]
+}
